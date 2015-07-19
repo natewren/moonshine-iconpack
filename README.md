@@ -16,3 +16,5 @@ Adapt — remix, transform, and build upon the material
 for *any* purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+We do ask that you atleast mention us when you use these icons, but you don't *have* too (use common sense and ethics).
