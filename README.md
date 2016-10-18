@@ -1,6 +1,4 @@
-# Moonshine is now Open Source
-
-Valiant Pixels is happy to announce that we're releasing Moonshine's graphical assets to the public; aka *OPEN SOURCE*. It will be under the CC-BY-4.0 Creative Common Attribution 4.0 International License (the same one Google uses for their system icons).
+# Moonshine is Open Source
 
 This includes the PSD files, along with all the appropiate .PNG files that make up the Moonshine icon pack.
 
